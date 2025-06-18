@@ -1,4 +1,4 @@
-This project is covered by a [Custom License and Academic Integrity Disclaimer](LICENSE.TXT).  
+This project is covered by a [Custom License and Academic Integrity Disclaimer](LICENSE Disclaimer.TXT).  
 
 ## Academic Integrity Notice
 This code was submitted as part of an academic course at UWA. Do not copy or reuse. Referencing this work in current or future coursework may result in academic misconduct.
