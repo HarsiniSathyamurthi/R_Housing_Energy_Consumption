@@ -1,13 +1,5 @@
 # ----------------------------------------------------------
-# BUSN5002: Fundamentals of Business Analytics
-# Purpose: Group Project 2
 # Dataset: Appliance Energy Prediction
-#
-# Team Members:
-#    Rajakrishnan Vinod Kumar (24282602)
-#    Yuvan Muruganathan Bharathi (24636375)
-#    Swanson Shadrack (24729976)
-#    Harsini Sathyamurthi (24515799)
 # ----------------------------------------------------------
 
 # Clearing steps
@@ -17,7 +9,7 @@ cat("\014")      # Clear console, ASCII character Form Feed (\014 or CTRL+L)
 
 
 # Setup working directory
-setwd("E:/UWA/FBA/Project2")
+setwd("E:/Project")
 
 
 # Install and Load required libraries
